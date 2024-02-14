@@ -1,4 +1,4 @@
-import Navbar from "../components/navbarFolder/Navbar";
+import Navbar from "../../components/navbarFolder/Navbar";
 
 const India = () => {
 	return (
